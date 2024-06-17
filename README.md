@@ -15,13 +15,16 @@ VER MAS DETALLES
 
 
 
+
 ![Image text](./imagenes/caracteristicas%20del%20producto.jpg)
 CARRITO DE COMPRAS
 
 
 
+
 ![Image text](./imagenes/carrito.jpg)
 VISTA DESDE UN DISPOSITIVO DE ESCRITORIO
+
 
 
 
