@@ -1,0 +1,231 @@
+:root{
+    background-color:black;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+body{
+    height: 110%;
+}
+header{
+    margin-bottom: 10%;
+    background-color: #6a0115;
+    .headerstart{
+        display: flex;
+        justify-content: space-between;
+        border-radius: 25%;
+
+        #opciones{
+            display: flex;
+            width: 65px;
+            height: 65px;
+            border-radius: 25%;
+        }
+        #logo{
+            display: flex;
+            justify-content: end;
+            border-radius: 25%;
+            width: 65px;
+            align-items: center;
+        }
+        }
+}
+nav{
+    margin-bottom: 10%;
+    display: flex;
+    #navleft{
+        background-color: white;
+        width: 96%;
+        height: 100%;
+        border-color: gray;
+        display: flex;
+        flex-direction: row;
+    }
+        button{
+        background-color: transparent;
+        border: none;
+        width: 15%;
+        img{
+            display: flex;
+            width: 100%;
+            height: 100%;
+            border-radius: 25%;
+
+        }
+    }
+    input{
+        background-color:transparent;
+        align-items: center;
+        font-size: 100%;
+        height: 100%;
+            border: none;
+            outline: none;
+
+     }
+     #navright{
+        display: flex;
+        justify-content: center;
+        width: 20%;
+        background-color: black;
+
+        img{
+            display: flex;
+            width:60%;
+            height: 100%;
+            border-radius: 25%;
+            background-color: white;
+
+
+        }
+     }
+
+}
+main{
+    margin-bottom: 40%;
+    padding-bottom: 50%;
+
+    h1{
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 40px
+    }
+    
+.carousel {
+        display: flex;
+        overflow-x: auto;
+        scroll-snap-type: x mandatory;
+        height: 20%;
+      }  
+.slide {
+        flex: 0 0 auto;
+        width: 100%;
+        height: 20%;
+        scroll-snap-align: start;
+      }   
+.slide img {
+        width: 100%;
+        height:20%;
+        
+      }
+.mainstart{
+    color: white;
+    text-align: center;
+ }
+.referencia{
+    height: 70px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px
+} 
+.precio{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    height: 70px;
+    background-color: #c20000;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+
+}
+.comprar{
+    display: flex;
+    width: 100%;
+    height: 70px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10%;
+    font-size: 30px;
+}
+.botoncompra{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 4%;
+    color: black;
+    text-decoration: none;
+    background-color: white;
+    border-radius: 30% ;
+    height: 50%;
+    width: 80%;
+}
+.botoncompra:hoover{
+    background-color: gray;
+    padding: 2%;
+}     
+
+.caracteristicas{
+    background-color: #c20000;
+        align-items: start;
+        justify-content: center;
+    margin-bottom: 10%;
+
+}
+.contactanos{
+    form{
+        text-align: center;
+        
+    }
+}
+}
+
+footer{
+    background-color: #6a0115;
+    height: 15%;
+    border-radius: 30% 30% 0% 0%;
+    width: 96%;
+    position:fixed;
+    bottom: 0;
+    box-shadow: 0 .5rem 4rem #ffffff;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+#footerstart{
+    height: 65px;
+    color: #c20000;
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+    justify-content: space-around;
+    img{
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        }
+#cart{
+        border-radius: 10%;
+}
+#notifications{
+        border-radius: 20%;  
+
+
+    }
+}
+#footerend{
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    justify-content: space-around;
+        div{
+            width: 40px;
+            height: 40px;
+            color: white;
+            display: flex;
+            justify-content: center;
+            
+        }
+}
+#footerstart img:hover{
+    background-color: gray;
+    padding: 2%;
+   }
+}
