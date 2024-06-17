@@ -238,33 +238,50 @@ footer{
 }
 #footerstart img:hover{
     background-color: gray;
-    padding: 2%;
+    padding: 3%;
    }
 }
-.botoncompra:hover {
-    animation: 0,4 comprar ease-in-out alternate forwards ;
-    animation-delay: 0s;
-    animation-iteration-count: 3s;
-    animation-play-state: running;
-  }
-  
-  @keyframes comprar {
-    0%,
-    100% {
-      transform: scale(1);
-    }
-    25%,
-    75% {
-      transform: scale(0.9);
-    }
-    50% {
-      transform: scale(1.1);
-    }
-  }
-  
 
-@media only screen and (min-width: 1000px){
-    :root{
-        vistapc.html
-    }
+
+.vistapc{
+    display: none;
 }
+@media only screen and (min-width:500px){
+    .vistamovil{
+        display: none;
+    }
+    .vistapc{
+        display:inline;}
+
+    header{
+        background-color: #6a0115;
+        width: 100%;    
+        height: 150px;
+    }
+    div{
+        display: flex;
+        justify-content: center;
+    }
+    
+    main{
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 45px;
+        color: white;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+    }
+    img{
+        transition-duration: 5s;
+    }
+    img:hover{
+        padding: 5%;
+        background-color: rgb(255, 255, 255 /50%);
+    }
+    
+}
+    
+
+    
