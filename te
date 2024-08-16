@@ -1,1 +1,73 @@
 
+        <div class="slider">
+          <div class="slider--inner">
+            <img class="slider--img"
+              src="https://coregaming.com.mx/assets/uploads/sw_banner_ensamble_coregaming_2.png?1643400664" />
+            <img class="slider--img"
+              src="https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7b68a63a-cb41-4653-af7e-0da1fb8afff1._CR0%2C0%2C1500%2C750_SX750_SY375_.jpg" />
+            <img class="slider--img"
+              src="https://static.fundacion-affinity.org/cdn/farfuture/PVbbIC-0M9y4fPbbCsdvAD8bcjjtbFc0NSP3lRwlWcE/mtime:1643275542/sites/default/files/los-10-sonidos-principales-del-perro.jpg" />
+            <img class="slider--img"
+              src="https://as01.epimg.net/diarioas/imagenes/2022/05/29/actualidad/1653826510_995351_1653826595_noticia_normal.jpg" />
+          </div>
+        </div>
+
+
+
+        footer {
+          background-color: #6a0115;
+          height: 15%;
+          border-radius: 30% 30% 0% 0%;
+          width: 96%;
+          position: fixed;
+          bottom: 0;
+          box-shadow: 0 0.5rem 4rem #ffffff;
+          font-family: "Bebas Neue", sans-serif;
+          font-weight: 400;
+          font-style: normal;
+          #footerstart {
+            height: 60%;
+            color: #c20000;
+            display: flex;
+            flex-direction: row;
+            align-items: end;
+            justify-content: space-around;
+            .cont-footerstart {
+              display: flex;
+              text-align: center;
+              align-items: center;
+              justify-content: center;
+            }
+            img {
+              width: 40%;
+              height: 5%;
+              border-radius: 50%;
+            }
+            #cart {
+              border-radius: 10%;
+            }
+            #notifications {
+              border-radius: 20%;
+            }
+          }
+          #footerend {
+            display: flex;
+            flex-direction: row;
+            align-items: start;
+            justify-content: space-around;
+            div {
+              width: 40%;
+              height: 5%;
+              color: white;
+              display: flex;
+              justify-content: center;
+            }
+          }
+          #footerstart img:hover {
+            background-color: gray;
+            padding: 3%;
+          }
+        }
+        
+        
+        
