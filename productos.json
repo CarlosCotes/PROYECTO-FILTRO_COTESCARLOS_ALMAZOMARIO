@@ -1,0 +1,20 @@
+[
+    {
+        "img":"/imagenes/portada mother.png",
+        "alt":"BOARD MSI PRO",
+        "referencia":"BOARD MSI PRO Z790-P WIFI DDR4",
+        "precio":"1.700.000,00 COP",
+        "botoncomprar":"articulo2.html",
+        "tipo":"Board"
+
+    },
+    {
+        "img":"/imagenes/portada mother.png",
+        "alt":"BOARD MSI PRO",
+        "referencia":"BOARD MSI PRO Z790-P WIFI DDR4",
+        "precio":"1.700.000,00 COP",
+        "botoncomprar":"articulo2.html",
+        "tipo":"Board"
+    }
+
+]
