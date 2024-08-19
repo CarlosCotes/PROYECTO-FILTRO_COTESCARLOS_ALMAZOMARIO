@@ -1,5 +1,5 @@
 
-        <div class="slider">
+       <div class="slider">
           <div class="slider--inner">
             <img class="slider--img"
               src="https://coregaming.com.mx/assets/uploads/sw_banner_ensamble_coregaming_2.png?1643400664" />
@@ -12,62 +12,54 @@
           </div>
         </div>
 
-
-
-        footer {
-          background-color: #6a0115;
-          height: 15%;
-          border-radius: 30% 30% 0% 0%;
-          width: 96%;
-          position: fixed;
-          bottom: 0;
-          box-shadow: 0 0.5rem 4rem #ffffff;
-          font-family: "Bebas Neue", sans-serif;
-          font-weight: 400;
-          font-style: normal;
-          #footerstart {
-            height: 60%;
-            color: #c20000;
-            display: flex;
-            flex-direction: row;
-            align-items: end;
-            justify-content: space-around;
-            .cont-footerstart {
+        {
+          header {
+            #headercontainer {
+              height: 5vw;
+            }
+            #headerright {
+              width: 50%;
+              input {
+                width: 60%;
+              }
+            }
+        
+            #TIT {
               display: flex;
-              text-align: center;
+            }
+          }
+          main {
+            .container-card .card {
+              width: 25%;
+              margin: 0%;
+        
+            }
+            .card .box {
+              height: 50%;
+              img {
+                width: 100%;
+                height: 15vw;
+              }
+            }
+        
+            .content {
+              height: 100%;
+        
+            }
+        
+            .box.box2 {
+              height: 25%;
+            }
+            .precio {
+              height: 30%;
+              display: flex;
+              justify-content: center;
               align-items: center;
-              justify-content: center;
             }
-            img {
-              width: 40%;
-              height: 5%;
-              border-radius: 50%;
+          
+            .comprar {
+              height: 70%;
             }
-            #cart {
-              border-radius: 10%;
-            }
-            #notifications {
-              border-radius: 20%;
-            }
-          }
-          #footerend {
-            display: flex;
-            flex-direction: row;
-            align-items: start;
-            justify-content: space-around;
-            div {
-              width: 40%;
-              height: 5%;
-              color: white;
-              display: flex;
-              justify-content: center;
-            }
-          }
-          #footerstart img:hover {
-            background-color: gray;
-            padding: 3%;
           }
         }
-        
-        
         

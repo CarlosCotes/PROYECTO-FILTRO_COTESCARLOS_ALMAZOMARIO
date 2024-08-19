@@ -16,20 +16,23 @@ document.addEventListener("DOMContentLoaded", function () {
                 <div class="content">
                     <div class="precio">${product.precio}</div>
                     <div class="comprar">
-                         <button class="btncr" id='${product.img + ';' +product.referencia + ';' +product.precio+ ';' +product.tipo}'>Agregar al carrito</button>
+                         <button class="botoncompra" id="btncr" data-product='${JSON.stringify(product)}'>Eliminar</button>
                 </div>
             </div>
         `;
 
         cardContainer.appendChild(card);
       });
-
+ 
     })
     .catch((error) => console.error("Error al cargar los productos:", error));
 });
 
-const button = document.getElementsByClassName("btncr");
+const btncr = document.getElementById("btncr");
 
-button.addEventListener("click", () => {
-  alert("HOLA")
-});
+btncr.addEventListener("click",function(){
+  console.log("HOLA")
+})
+
+
+
