@@ -28,13 +28,13 @@ header {
       font-style: normal;
       font-size: 25px;
     }
-  }
-  img {
-    display: flex;
-    justify-content: end;
-    border-radius: 25%;
-    width: 65px;
-    align-items: center;
+    img {
+      display: flex;
+      justify-content: end;
+      border-radius: 25%;
+      width:40px;
+      align-items: center;
+    }
   }
 
   #headerright {

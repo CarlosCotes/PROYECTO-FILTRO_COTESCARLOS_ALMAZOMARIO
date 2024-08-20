@@ -27,9 +27,3 @@ document.addEventListener("DOMContentLoaded", function () {
     })
     .catch((error) => console.error("Error al cargar los productos:", error));
 });
-
-const button = document.getElementsByClassName("btncr");
-
-button.addEventListener("click", () => {
-  alert("HOLA")
-});
