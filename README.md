@@ -21,10 +21,23 @@ la cual debe contar con un carrito de compras para el usuario y que tambien se b
 > [!IMPORTANT]  
 >
 >### Informacion-general
+>se realiza el proyecto bajo las siguientes rubricas
+>*Tener comportamiento totalmente responsive en ambas vistas.
 >
+>*Se debe mejorar el aspecto visual garantizando una mejor experiencia de usuario.
+>
+>*No se debe utilizar ningún framework CSS, es decir, hacer toda la maquetación y estilos utilizando HTML y CSS puro.
+>
+>*Se debe agregar almacenamiento con JavaScript con algún "Mecanismos de Gestión de Información en Navegadores Web" para el almacenamiento y persistencia de la información es decir el carrito de compras.
+> 
+>*La información de los productos debe almacenarse en un archivo .json y debe organizarse de forma dinámica utilizando JavaScript, utilizando también filtros para la búsqueda de productos.
+>
+>*Todo el funcionamiento debe estar sustentado bajo el uso de JavaScript puro.
+>
+>Las cuales se cumplen para brindar una mejor experiencia al usuario
 >
 >### Funcionamiento
->Cuenta con un carrito de compras y filtro de busqueda por nombre de productos 
+>Cuenta con un carrito de compras y filtro de busqueda por nombre de productos para los cuales se utilizo distintas funciones de js ya que se plantea el uso de json para estructurar los >productos de manera dinamica
 >
 >### Instalaciones 
 >1. Descargar en visual estudio code la extension live server
