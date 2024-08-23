@@ -1,4 +1,4 @@
-# TITULO DEL PROYECTO
+# TOXIC ZONE
 
 ### Descripcion
 Se plante la creacion de un ecomerce para una tienda de componetes gamers esta se basa en ser totalmente responsive y tenga vista tanto para movil como para dispositivos de escritorio 
