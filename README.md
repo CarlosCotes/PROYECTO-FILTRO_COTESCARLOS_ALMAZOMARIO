@@ -1,40 +1,62 @@
-## Table of Contents
-1. [General Info](#general-info)
-2. [screensots](#screenshot)
-3. [Technologies](#technologies)
-### General Info
+# TITULO DEL PROYECTO
+
+### Descripcion
+Se plante la creacion de un ecomerce para una tienda de componetes gamers esta se basa en ser totalmente responsive y tenga vista tanto para movil como para dispositivos de escritorio 
+la cual debe contar con un carrito de compras para el usuario y que tambien se brinde una filtro que busque por nombres los diferentes productos
 ***
-El repositorio cuenta con 4 ARCHIVOS de HTML y 3 de CSS; estos se encargan de mostrar un menú principal con artículos el cual contiene un botón para ver más información de este mismo al apretar el botón este lo lleva a la página donde describe el artículo más a detalle con características y descripción del producto para información sobre los pedidos que se hacen en la página se encuentra el carrito el cual contiene esta información. La pagines es responsive por lo cual se agrego una condicion a la cual si se intenta entrar desde un dispositivo de escritorio esta mostrara un mensaje ya que el la pagina es solo para dispositivos moviles. el proyecto se plantea a futuro a agregar funcionalidad a otras características como lo son la implementacion de el uso de base de datos y JavaScript
-### Screenshot
-VISTA PRINCIPAL
+## Tabla de contenido
+| Indice |  |
+|--|--|
+| 1 | [Descripcion](#Descripcion) |
+| 2 | [Informacion general](#Informacion-general)|
+| 3 | [Instalaciones](#Instalaciones) |
+| 4 | [Tecnologias utilizadas](#Tecnologias-utilizadas) |
+| 5 | [Funcionamiento](#Funcionamiento)|
+| 6 | [Hecho por](#Hecho-por)|
+| 7 | [Colaboradores](#Colaboradores)|
+| 7 | [Mensaje del creador](#Mensaje-del-creador)|
+| 8 | [screenshots](#screenshots) |
 
-
-
-![Image text](./imagenes/Menu-principal.jpg)
 ***
-VER MAS DETALLES
+> [!IMPORTANT]  
+>
+>### Informacion-general
+>
+>
+>### Funcionamiento
+>Cuenta con un carrito de compras y filtro de busqueda por nombre de productos 
+>
+>### Instalaciones 
+>1. Descargar en visual estudio code la extension live server
+>2. Descargar el archivo zip desde el repositorio
+>3. Descomprimir el archivo zip
+>4. Abrir la carpeta desde visual estudio code
+>5. Iniciar el archivo index.html con ayuda de la extension live server
+>
+>### Tecnologias-utilizadas
+>Lista de programas que se uso en el desarrollo del proyecto
+>* [HTML](HTML): Version 5.0
+>
+>* [CSS](CSS): Version 3.0
+>
+>* [JAVASCRIPT] (JS): version: ES12
 
-
-
-
-![Image text](./imagenes/caracteristicas%20del%20producto.jpg)
 ***
-CARRITO DE COMPRAS
-
-
-
-
-![Image text](./imagenes/carrito.jpg)
+> [!WARNING]  
+> 
+>### Creador
+>* [Carlos Cotes](https://github.com/CarlosCotes)
+>
+> [!NOTE]
+>### Mensaje-del-creador
+>Gracias por ver este repositorio
+### Screenshots
+![Texto alternativo](Ruta imagen)
 ***
-VISTA DESDE UN DISPOSITIVO DE ESCRITORIO
-
-
-
-
-![Image text](./imagenes/responsive.png)
-
-## Technologies
+![Texto alternativo](Ruta imagen)
 ***
-A list of technologies used within the project:
-* [HTML](HTML): Version 5.0
-* [CSS](CSS): Version 3.0
+![Texto alternativo](Ruta imagen)
+***
+![Texto alternativo](Ruta imagen)
+***
+![Texto alternativo](Ruta imagen)
