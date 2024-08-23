@@ -1,66 +1,68 @@
-[   {
-        "img":"/imagenes/portada mother.png",
-        "alt":"BOARD MSI PRO",
-        "referencia":"BOARD MSI PRO Z790-P WIFI DDR4",
-        "precio":"1.700.000,00 COP",
-        "botoncomprar":"articulo2.html",
-        "tipo":"Board"
+[
+    {
+      "img": "/imagenes/portada mother.png",
+      "alt": "BOARD MSI PRO",
+      "referencia": "BOARD MSI PRO Z790-P WIFI DDR4",
+      "precio": "1.700.000,00 COP",
+      "botoncomprar": "articulo2.html",
+      "tipo": "Board"
     },
     {
-        "img":"/imagenes/portada.png",
-        "alt":"Procesador AMD Ryzen 7 5700G",
-        "referencia":"Procesador AMD Ryzen 7 5700G",
-        "precio":"1.140.000,00 COP",
-        "botoncomprar":"articulo1.html",
-        "tipo":"Procesador"
+      "img": "/imagenes/portada.png",
+      "alt": "Procesador AMD Ryzen 7 5700G",
+      "referencia": "Procesador AMD Ryzen 7 5700G",
+      "precio": "1.140.000,00 COP",
+      "botoncomprar": "articulo1.html",
+      "tipo": "Procesador"
     },
-    
+  
     {
-        "img":"/imagenes/610.webp",
-        "alt":"Board Asus Prime B650M-A Wifi",
-        "referencia":"Board Asus Prime B650M-A Wifi",
-        "precio":"1.150.000,00 COP",
-        "botoncomprar":"articulo1.html",
-        "tipo":"Board"
-    },
-    {
-        "img":"/imagenes/Product_20240316100418332828515.I7F (1).png",
-        "alt":"Procesador Intel Core i7 14700f",
-        "referencia":"Procesador Intel Core i7 14700f",
-        "precio":"1.899.000,00 COP",
-        "botoncomprar":"articulo1.html",
-        "tipo":"Procesador"
+      "img": "/imagenes/610.webp",
+      "alt": "Board Asus Prime B650M-A Wifi",
+      "referencia": "Board Asus Prime B650M-A Wifi",
+      "precio": "1.150.000,00 COP",
+      "botoncomprar": "articulo1.html",
+      "tipo": "Board"
     },
     {
-        "img":"/imagenes/RAM.png",
-        "alt":" Memoria RAM Vengeance 16GB",
-        "referencia":"Memoria RAM Vengeance LPX gamer color negro 16GB",
-        "precio":"195.500,00 COP",
-        "botoncomprar":"articulo1.html",
-        "tipo":"Ram"
+      "img": "/imagenes/Product_20240316100418332828515.I7F (1).png",
+      "alt": "Procesador Intel Core i7 14700f",
+      "referencia": "Procesador Intel Core i7 14700f",
+      "precio": "1.899.000,00 COP",
+      "botoncomprar": "articulo1.html",
+      "tipo": "Procesador"
     },
     {
-        "img":"/imagenes/Grafica.webp",
-        "alt":"Tarjeta de Video RTX 4060",
-        "referencia":"Tarjeta de Video RTX 4060 Ti MSI Gaming X",
-        "precio":"2.550.000,00 COP",
-        "botoncomprar":"articulo1.html",
-        "tipo":"Grafica"
+      "img": "/imagenes/RAM.png",
+      "alt": " Memoria RAM Vengeance 16GB",
+      "referencia": "Memoria RAM Vengeance LPX gamer color negro 16GB",
+      "precio": "195.500,00 COP",
+      "botoncomprar": "articulo1.html",
+      "tipo": "Ram"
     },
     {
-        "img":"/imagenes/cooler.webp",
-        "alt":"Refrigeración Liquida Aerocool",
-        "referencia":"Refrigeración Liquida Aerocool Mirage L240 ARGB 240MM",
-        "precio":"430.000,00 COP",
-        "botoncomprar":"articulo1.html",
-        "tipo":"Refrigeracion"
+      "img": "/imagenes/Grafica.webp",
+      "alt": "Tarjeta de Video RTX 4060",
+      "referencia": "Tarjeta de Video RTX 4060 Ti MSI Gaming X",
+      "precio": "2.550.000,00 COP",
+      "botoncomprar": "articulo1.html",
+      "tipo": "Grafica"
     },
     {
-        "img":"/imagenes/Monitor.webp",
-        "alt":"Monitor Janus de 32, Resolución 2K, 165 Hz, Curvo",
-        "referencia":"Monitor Janus de 32, Resolución 2K, 165 Hz, Curvo",
-        "precio":"1.290.000,00 COP",
-        "botoncomprar":"articulo1.html",
-        "tipo":"Monitor"
+      "img": "/imagenes/cooler.webp",
+      "alt": "Refrigeración Liquida Aerocool",
+      "referencia": "Refrigeración Liquida Aerocool Mirage L240 ARGB 240MM",
+      "precio": "430.000,00 COP",
+      "botoncomprar": "articulo1.html",
+      "tipo": "Refrigeracion"
+    },
+    {
+      "img": "/imagenes/Monitor.webp",
+      "alt": "Monitor Janus de 32, Resolución 2K, 165 Hz, Curvo",
+      "referencia": "Monitor Janus de 32, Resolución 2K, 165 Hz, Curvo",
+      "precio": "1.290.000,00 COP",
+      "botoncomprar": "articulo1.html",
+      "tipo": "Monitor"
     }
-]
+  ]
+  
