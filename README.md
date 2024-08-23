@@ -64,12 +64,11 @@ la cual debe contar con un carrito de compras para el usuario y que tambien se b
 >### Mensaje-del-creador
 >Gracias por ver este repositorio
 ### Screenshots
-![Texto alternativo](Ruta imagen)
+![Pagina principal vista movil](./imagenes/READ/VM%201.jpg)
 ***
-![Texto alternativo](Ruta imagen)
+![Pagina carrito vista movil](./imagenes/READ/VM%202.jpg)
 ***
-![Texto alternativo](Ruta imagen)
+![Pagina principal vista pc](./imagenes/READ/VP%201.jpg)
 ***
-![Texto alternativo](Ruta imagen)
+![Pagina carrito vista pc](./imagenes/READ/VP%202.jpg)
 ***
-![Texto alternativo](Ruta imagen)
